@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"t",
+				"title\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"G",
+				"_GET"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"g",
+				"_GET"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"b",
+				"border-spacing\tproperty"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"Andi",
+				"Andi"
+			],
+			[
+				"prnt",
+				"print"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"borde",
+				"border-collapse\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"btn",
+				"btnl"
+			],
+			[
+				"te",
+				"test3"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tom",
+				"tombol1"
+			],
+			[
+				"div",
+				"div1"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bu",
+				"buttonl"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"m",
+				"marker"
+			],
+			[
+				"co",
+				"contentString"
+			],
+			[
+				"I",
+				"Info"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nama",
+				"namaDepan"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"c",
+				"clear\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"letter-spacing\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"O",
+				"OPTION\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"v",
+				"vehicle1"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"tangga",
+				"tanggalkembali"
+			],
+			[
+				"tang",
+				"tanggalpinjam"
+			],
+			[
+				"ta",
+				"Tanggal"
+			],
+			[
+				"j",
+				"judul"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"ju",
+				"judul_arr"
+			],
+			[
+				"masuk",
+				"Masukkan"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"da",
+				"DATA"
+			],
+			[
+				"P",
+				"Pengembalian"
+			],
+			[
+				"BUKU",
+				"Buku"
+			],
+			[
+				"pe",
+				"pengembalian"
+			],
+			[
+				"CAR",
+				"cariBuku"
+			],
+			[
+				"total",
+				"totaldenda"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"me",
+				"MEMINJAM"
+			],
+			[
+				"na",
+				"namaMHS"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"y",
+				"yang"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"static",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"jen",
+				"jenis_arr"
+			],
+			[
+				"harga",
+				"harga_sewa"
+			],
+			[
+				"next",
+				"nextLine"
+			],
+			[
+				"pengiriman",
+				"pengirimanekspres"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"sy",
+				"System"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "2020_12_02_174916_create_barangs_table.php",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/batik/routes/web.php",
+		"/C/xampp/htdocs/batik/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/larisshop/larisshop/index.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/database/seeds/DatabaseSeeder.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/routes/web.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/resources/views/home.blade.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/cetakid.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/latihan.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/admin.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/fpdf16/fpdf.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/config/cekpegawai.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/config/proses_login.php",
+		"/C/xampp/htdocs/book/kategori.php",
+		"/C/xampp/htdocs/toko_onlineku/makanan.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/lihat_makanan.php",
+		"/C/xampp/htdocs/rinostore_3/footer.php",
+		"/C/xampp/htdocs/rinostore_3/header.php",
+		"/C/xampp/htdocs/rinostore_3/php/twitteroauth/twitteroauth.php",
+		"/C/xampp/htdocs/rinostore_3/account.php",
+		"/C/xampp/htdocs/rinostore_3/detailproduct.php",
+		"/C/xampp/htdocs/rinostore_3/product.php",
+		"/C/xampp/htdocs/rinostore_3/select_daerah.php",
+		"/C/xampp/htdocs/websekolahku/index.php",
+		"/C/xampp/htdocs/websekolahku/koneksi/koneksi.php",
+		"/C/xampp/htdocs/batiku/proses/bayar.php",
+		"/C/xampp/htdocs/larisshop/larisshop/cart.php",
+		"/C/xampp/htdocs/praktik_php/login.php",
+		"/C/xampp/htdocs/larisshop/larisshop/mcart.php",
+		"/C/xampp/htdocs/toko_onlineku/login.php",
+		"/C/xampp/htdocs/toko_onlineku/pakaian.php",
+		"/C/xampp/htdocs/belajar_laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/RANCANGAN/posting2.html",
+		"/C/xampp/htdocs/RANCANGAN/profil.html",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/resources/views/profile/index.blade.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/public/index.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/app/Barang.php",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/commerce-laravel-master/commerce-laravel-master/server.php",
+		"/C/xampp/htdocs/RANCANGAN/index7.html",
+		"/C/xampp/htdocs/belajar_laravel/resources/views/index.blade.php",
+		"/C/xampp/htdocs/belajar_laravel/public/index.php",
+		"/C/xampp/htdocs/belajar_laravel/database/seeds/ArticleTableSeeder.php",
+		"/C/xampp/htdocs/webperpus/home.php",
+		"/C/xampp/htdocs/Toko Sepatu/index.php",
+		"/C/xampp/htdocs/belajar_laravel/routes/web.php",
+		"/C/xampp/htdocs/toko_onlineku/kontak.php",
+		"/C/xampp/htdocs/toko_onlineku/koneksi.php",
+		"/C/xampp/htdocs/toko_onlineku/detailmakanan.php",
+		"/C/xampp/htdocs/toko_onlineku/detailproduk.php",
+		"/C/xampp/htdocs/toko_onlineku/config/proses_login.php",
+		"/C/xampp/htdocs/toko_onlineku/index.php",
+		"/C/xampp/htdocs/belajar_laravel/resources/views/index7.html",
+		"/E/TUGAS KULIAH/Pemrograman Web Lanjut/portfolio/portfolio/index.html",
+		"/C/xampp/htdocs/rinostore_3/control/prosescon/index.php",
+		"/C/xampp/htdocs/rinostore_3/control/page/admin.php",
+		"/C/xampp/htdocs/rinostore_3/control/page/home.php",
+		"/C/xampp/htdocs/rinostore_3/php/config.php",
+		"/C/xampp/htdocs/rinostore_3/php/contacts.php",
+		"/C/xampp/htdocs/rinostore_3/php/function.php",
+		"/C/xampp/htdocs/rinostore_3/php/project.php",
+		"/C/xampp/htdocs/rinostore_3/php/subscribe.php",
+		"/C/xampp/htdocs/rinostore_3/php/twitter.php",
+		"/C/xampp/htdocs/rinostore_3/prosesuser/rootuser.php",
+		"/C/xampp/htdocs/rinostore_3/prosesuser/index.php",
+		"/C/xampp/htdocs/rinostore_3/prosesuser/hanuser.php",
+		"/C/xampp/htdocs/rinostore_3/verifikasisuccess.php",
+		"/C/xampp/htdocs/rinostore_3/notfound.php",
+		"/C/xampp/htdocs/rinostore_3/logreg.php",
+		"/C/xampp/htdocs/rinostore_3/homefirst.php",
+		"/C/xampp/htdocs/rinostore_3/icon.php",
+		"/C/xampp/htdocs/rinostore_3/contact.php",
+		"/C/xampp/htdocs/rinostore_3/index.php",
+		"/C/xampp/htdocs/rinostore_3/control/main.php",
+		"/C/xampp/htdocs/rinostore_3/control/index.php",
+		"/C/xampp/htdocs/batiku/proses/komentar.php",
+		"/C/xampp/htdocs/batiku/home.php",
+		"/C/xampp/htdocs/batiku/pencarian.php",
+		"/C/xampp/htdocs/batiku/proses/beli.php",
+		"/C/xampp/htdocs/batiku/admin/admin.php",
+		"/C/xampp/htdocs/batiku/landing.php",
+		"/C/xampp/htdocs/batiku/title-landing.php",
+		"/C/xampp/htdocs/batiku/index.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/cetak.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/edit_barang.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/hapus_barang.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/input_barang.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/input_makanan.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/koneksi.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/laporan.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/lihat_barang.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/lihat_transaksi.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/logout.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/admin/admin.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/mpdf60/config.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/fpdf16/font/helveticab.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/fpdf16/tutorial/tuto3.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/fpdf16/tutorial/calligra.php",
+		"/C/xampp/htdocs/toko_onlineku/admin/config/cekadmin.php",
+		"/C/xampp/htdocs/toko_onlineku/style.css",
+		"/C/xampp/htdocs/toko_onlineku/cekout.php",
+		"/C/xampp/htdocs/data-warga/pages/login/proses-login.php",
+		"/C/xampp/htdocs/data-warga/index.php",
+		"/C/xampp/htdocs/siakad/admin/index.php",
+		"/C/xampp/htdocs/siakad/admin/login.php",
+		"/C/xampp/htdocs/batiku/admin/login.php",
+		"/C/xampp/htdocs/batiku/admin/index.php",
+		"/C/xampp/htdocs/batiku/admin/proses/tambahAdmin.php",
+		"/C/xampp/htdocs/batiku/admin/proses/login.php",
+		"/C/xampp/htdocs/tokojersey/tokojersey/ngadimin/koneksi.php",
+		"/C/xampp/htdocs/sim_deliveri/sim/action/LoginAction.php",
+		"/C/xampp/htdocs/siakad/index.php",
+		"/C/xampp/htdocs/siakad/templates/header.php",
+		"/C/xampp/htdocs/siakad/templates/footer.php",
+		"/C/xampp/htdocs/siakad/templates/error404.php",
+		"/C/xampp/htdocs/siakad/templates/content.php",
+		"/C/xampp/htdocs/toko_onlineku/config/cekpegawai.php",
+		"/C/xampp/htdocs/toko_onlineku/config/cekadmin.php",
+		"/C/xampp/htdocs/toko_onlineku/koneksi/-koneksi.php",
+		"/C/xampp/htdocs/toko_onlineku/koneksi/+connection.php",
+		"/C/xampp/htdocs/praktik_php/phpmysql10/cek_koneksi.php",
+		"/C/xampp/htdocs/praktik_php/phpmysql10/insertTable.php",
+		"/C/xampp/htdocs/praktik_php/phpmysql10/createTable.php",
+		"/C/xampp/htdocs/praktik_php/phpmysql10/createBD.php",
+		"/C/xampp/htdocs/praktik_php/phpmysql10/koneksi.php",
+		"/C/xampp/htdocs/webperpus/index.php",
+		"/C/xampp/htdocs/webperpus/login.php",
+		"/C/xampp/htdocs/webperpus/login_admin.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"            \n",
+			"buku"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "2020_12_02_174916_create_barangs_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2020_12_02_174916_create_barangs_table.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
